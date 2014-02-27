@@ -11,8 +11,7 @@
     </h2>
 
     <p>
-        <a href="http://go.microsoft.com/fwlink/?LinkID=152368" title="MSDN-ASP.NET-Dokumente">Dokumentation finden Sie auch unter ASP.NET bei MSDN</a>.
-        <asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
+        &nbsp;<asp:ToolkitScriptManager ID="ToolkitScriptManager1" runat="server">
         </asp:ToolkitScriptManager>
     </p>
     <p>
