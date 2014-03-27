@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Startseite" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeFile="LaunchConfirmation.aspx.cs" Inherits="_Default" %>
+    CodeFile="LaunchConfirmation.aspx.cs" Inherits="_LaunchConfirmation" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>

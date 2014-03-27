@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Suche" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeFile="SearchOwnAds.aspx.cs" Inherits="_Search" %>
+    CodeFile="SearchOwnAds.aspx.cs" Inherits="_SearchOwn" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>

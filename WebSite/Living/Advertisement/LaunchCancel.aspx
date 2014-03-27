@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Startseite" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeFile="LaunchCancel.aspx.cs" Inherits="_Default" %>
+    CodeFile="LaunchCancel.aspx.cs" Inherits="_LaunchCancel" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>

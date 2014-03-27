@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="AjaxControlToolkit-Testseite" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeFile="ACT_Test.aspx.cs" Inherits="Test" %>
+    CodeFile="ACT_Test.aspx.cs" Inherits="TestACT" %>
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
 
